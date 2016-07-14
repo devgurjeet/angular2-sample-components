@@ -6,7 +6,4 @@ import { Component } from '@angular/core';
 
 })
 export class FormComponent {
-	vaildate( username ){
-		console.log(username);
-	}
 }
